@@ -1,0 +1,11 @@
+package programfrist1;
+
+public class Demo {
+
+	    public static void main(String[] args) {
+	        String s2 = new String("Hello");
+	        String s3 = s2.concat("world");
+	        System.out.println(s2);
+	        System.out.println(s3);
+	    }
+}
