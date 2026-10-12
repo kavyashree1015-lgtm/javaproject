@@ -1,0 +1,16 @@
+package Prog;
+
+public class Main {
+	
+	   static void display() {
+		   System.out.println("This is a static method");
+	   }
+	   void display2() {
+		   System.out.println("This is a normal method");
+	   }
+	   public static void main(String[]args) {
+		   display();
+		   Main m=new Main();
+		   m.display();
+	   }
+}
