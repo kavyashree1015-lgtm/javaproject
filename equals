@@ -1,0 +1,12 @@
+package Prog;
+
+public class Main {
+	
+    public static void Main(String[] args) {
+    	String city="bengalore";
+    	System.out.println(city.length());
+    	System.out.println(city.toUpperCase());
+    	System.out.println(city.equals("benglore"));
+    }
+    
+}
