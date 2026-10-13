@@ -1,0 +1,12 @@
+package javaaaaa;
+
+public class Demoo {
+public static void main(String[]args) {
+	        String s = "I like cat";
+
+	        s = s.replace("cat", "dog");
+
+	        System.out.println(s);
+	    }
+	}
+
