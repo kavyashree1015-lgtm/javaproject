@@ -1,0 +1,12 @@
+package Prog;
+
+public class Main {
+	
+    public static void Main(String[] args) {
+    	String word="java";
+    	System.out.println(word.length());
+    	System.out.println(word.charAt(0));
+    	System.out.println(word.charAt(3));
+    }
+    
+}
